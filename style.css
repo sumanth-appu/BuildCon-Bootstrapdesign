@@ -63,9 +63,7 @@ body{
 .services .card-body i{
   font-size: 50px;
 }
-.card{
-  margin: 5px;
-}
+
 .team .card-body i{
   font-size: 20px;
 }
@@ -88,6 +86,15 @@ body{
   .carousel-caption h5{
     font-size: 17px;
 
+  }
+  .card{
+  margin: 30px;
+}
+  .about-text{
+    padding-top:50px ;
+  }
+   .img-area img{
+    width: 100%;
   }
   .carousel-caption a{
     padding: 10px 15px;
